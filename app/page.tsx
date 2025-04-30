@@ -68,9 +68,10 @@ export default function Home() {
       className="min-h-screen flex items-center justify-center p-4 md:p-8 font-sans relative"
       style={{
         backgroundImage: "url('/bg-hero.png')",
-        backgroundSize: "100% auto",
+        backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
+        backgroundAttachment: "fixed",
       }}
     >
       {/* Semi-transparent overlay */}
