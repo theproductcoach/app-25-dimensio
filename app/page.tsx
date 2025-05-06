@@ -234,7 +234,7 @@ export default function Home() {
                 className="w-full p-3 border border-gray-300 rounded bg-white text-gray-800 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition"
               >
                 <option value="format3">
-                  12 1/2" H x 12 1/2" W x 12 1/2" D
+                  12 1/2&quot; H x 12 1/2&quot; W x 12 1/2&quot; D
                 </option>
               </select>
             </div>
